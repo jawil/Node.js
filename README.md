@@ -7,8 +7,7 @@
 
 ## 目录
 * **1、Node.js开始**
-
-    * [1.1 Node.js的代码风格和规范指南](https://github.com/jawil/Node.js/issues/1)
+    * [1.1 Node.js的代码风格和规范指南](https://github.com/jawil/Node.js/issues/1)
     * [1.2 Node.js的核心概念——单线程，非阻塞，事件驱动](https://github.com/jawil/Node.js/issues/2)
     * [1.3 Node.js的异步回调——了解ES7中async/await使用](https://github.com/ChenShenhai/koa2-note/blob/master/note/start/async.md)
   
