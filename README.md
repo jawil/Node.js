@@ -10,8 +10,8 @@
   
 * **2、基本模块**
 
-* *3、Node.js安全**
-    * [3. 1 [译]Node.js安全清单](https://segmentfault.com/a/1190000003860400)
+* **3、Node.js安全**
+    * [3. 1 Node.js安全清单](https://segmentfault.com/a/1190000003860400)
     
 
 
