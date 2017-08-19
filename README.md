@@ -9,6 +9,9 @@
     * [1.3 Node.js的异步回调——Async/Await替代Promise的6个理由](https://juejin.im/post/58ede4c1b123db43cc365551)
   
 * **2、基本模块**
+
+* *3、Node.js安全**
+    * [3. 1 [译]Node.js安全清单](https://segmentfault.com/a/1190000003860400)
     
 
 
