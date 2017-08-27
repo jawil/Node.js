@@ -10,9 +10,15 @@
   
 * **2、基本模块**
 
+
 * **3、Node.js安全**
-    * [3. 1 Node.js安全清单](https://segmentfault.com/a/1190000003860400)
-    
+
+    * [3.1 Node.js安全清单](https://segmentfault.com/a/1190000003860400)
+    * [3.2 Nodejs session 原理及实战](https://segmentfault.com/a/1190000010837077)
+    * [3.3 JSON Web Tokens (JWT) 与 Sessions](http://www.qcyoung.com/2016/07/04/%E3%80%90%E8%AF%91%E3%80%91JSON%20Web%20Tokens%20(JWT)%20%E4%B8%8E%20Sessions/) [英文原版](https://news.ycombinator.com/item?id=11929267)
+    * [3.4 讲真，别再使用JWT了](http://insights.thoughtworkers.org/do-not-use-jwt-anymore/)
+
+    
 
 
 ## 前言
